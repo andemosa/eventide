@@ -154,7 +154,7 @@ form button{
     }
 
     header, #h1_p, #form, #para {
-        padding: 1rem;
+        padding: 1rem 0 0 1rem;
     }
 
     #first{
@@ -166,8 +166,15 @@ form button{
     }
 
     #h1_p h1{
-        padding-bottom: .5rem;
+        padding-bottom: .25rem;
         font-size: 2rem;
+    }
+
+    label{
+        font-size: .75rem;
+        margin-bottom: .125rem;
+        line-height: 1;
+        font-weight: 600;
     }
 
     input{
