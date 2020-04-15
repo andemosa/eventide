@@ -110,8 +110,7 @@ form button{
     border-radius: 5px;
     border: 0 solid #e2e8f0;
     margin-bottom: 2rem;
-    width: 95%;
-    margin-left: 2.5%;
+    width: 100%;
 }
 
 #link{
@@ -149,8 +148,7 @@ form button{
     }
     
     form button{
-        margin-left: 5%;
-        width: 90%;
+        width: 100%;
     }
     }
 
@@ -191,7 +189,6 @@ form button{
 
     form button{
         padding: .75rem 5rem;
-        margin-left: 5%;
-        width: 90%;
+        width: 100%;
     }
 }
